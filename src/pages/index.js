@@ -14,8 +14,8 @@ const IndexPage = () => (
   <div>
     <Header />
     <About />
-    <Resume />
-    <Portfolio />
+    {/*<Resume />*/}
+    {/*<Portfolio />*/}
     <Testimonials />
     <Footer />
   </div>

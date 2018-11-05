@@ -23,28 +23,26 @@ const Testimonials = () => (
               <li>
                 <blockquote>
                   <p>
-                    Your work is going to fill a large part of your life, and
-                    the only way to be truly satisfied is to do what you believe
-                    is great work. And the only way to do great work is to love
-                    what you do. If you haven't found it yet, keep looking.
-                    Don't settle. As with all matters of the heart, you'll know
-                    when you find it.
+                    Philip is smart and dedicated developer. I worked with him during his summer internship program at Finra. He quickly caught up with our development process and took initiative of implementing changes to our build tools and delivered a working, well documented, ready to use solution. It was pleasure to work with Philip.
                   </p>
-                  <cite>Steve Jobs</cite>
+                  <cite>
+                    Vladimir Lisnik <br/>
+                    Principal Applications Engineer at Oracle Opower
+                  </cite>
                 </blockquote>
               </li>
-              <li>
-                <blockquote>
-                  <p>
-                    This is Photoshop's version of Lorem Ipsum. Proin gravida
-                    nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                    quis bibendum auctor, nisi elit consequat ipsum, nec
-                    sagittis sem nibh id elit. Duis sed odio sit amet nibh
-                    vulputate cursus a sit amet mauris.
-                  </p>
-                  <cite>Mr. Adobe</cite>
-                </blockquote>
-              </li>
+              {/*<li>*/}
+                {/*<blockquote>*/}
+                  {/*<p>*/}
+                    {/*This is Photoshop's version of Lorem Ipsum. Proin gravida*/}
+                    {/*nibh vel velit auctor aliquet. Aenean sollicitudin, lorem*/}
+                    {/*quis bibendum auctor, nisi elit consequat ipsum, nec*/}
+                    {/*sagittis sem nibh id elit. Duis sed odio sit amet nibh*/}
+                    {/*vulputate cursus a sit amet mauris.*/}
+                  {/*</p>*/}
+                  {/*<cite>Mr. Adobe</cite>*/}
+                {/*</blockquote>*/}
+              {/*</li>*/}
             </Slider>
           </ul>
         </div>

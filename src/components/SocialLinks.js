@@ -11,22 +11,22 @@ import {
 const SocialLinks = () => (
   <ul className="social">
     <li>
-      <a href="#">
+      <a href="https://www.facebook.com/philip.bankier">
         <FaFacebook />
       </a>
     </li>
     <li>
-      <a href="#">
+      <a href="https://www.linkedin.com/in/philip-bankier">
         <FaLinkedin />
       </a>
     </li>
     <li>
-      <a href="#">
+      <a href="https://www.instagram.com/philipbankier">
         <FaInstagram />
       </a>
     </li>
     <li>
-      <a href="#">
+      <a href="https://github.com/pbindustries">
         <FaGithub />
       </a>
     </li>
