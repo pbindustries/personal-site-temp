@@ -22,7 +22,7 @@ const Portfolio = () => (
         >
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="#modal-01" title="">
+              <a href="https://www.livedroneanalytics.com" title="">
                 <img alt="" src={Coffee} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -56,7 +56,7 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="#modal-03" title="">
+              <a href="https://www.villaincostarica.com" title="">
                 <img alt="" src={Judah} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -88,73 +88,73 @@ const Portfolio = () => (
             </div>
           </div>
 
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-05" title="">
-                <img alt="" src={Farmerboy} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Farmer Boy</h5>
-                    <p>Branding</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
+          {/*<div className="columns portfolio-item">*/}
+            {/*<div className="item-wrap">*/}
+              {/*<a href="#modal-05" title="">*/}
+                {/*<img alt="" src={Farmerboy} />*/}
+                {/*<div className="overlay">*/}
+                  {/*<div className="portfolio-item-meta">*/}
+                    {/*<h5>Farmer Boy</h5>*/}
+                    {/*<p>Branding</p>*/}
+                  {/*</div>*/}
+                {/*</div>*/}
+                {/*<div className="link-icon">*/}
+                  {/*<FaPlus />*/}
+                {/*</div>*/}
+              {/*</a>*/}
+            {/*</div>*/}
+          {/*</div>*/}
 
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-06" title="">
-                <img alt="" src={Girl} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Girl</h5>
-                    <p>Photography</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
+          {/*<div className="columns portfolio-item">*/}
+            {/*<div className="item-wrap">*/}
+              {/*<a href="#modal-06" title="">*/}
+                {/*<img alt="" src={Girl} />*/}
+                {/*<div className="overlay">*/}
+                  {/*<div className="portfolio-item-meta">*/}
+                    {/*<h5>Girl</h5>*/}
+                    {/*<p>Photography</p>*/}
+                  {/*</div>*/}
+                {/*</div>*/}
+                {/*<div className="link-icon">*/}
+                  {/*<FaPlus />*/}
+                {/*</div>*/}
+              {/*</a>*/}
+            {/*</div>*/}
+          {/*</div>*/}
 
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-07" title="">
-                <img alt="" src={Origami} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Origami</h5>
-                    <p>Illustrration</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
+          {/*<div className="columns portfolio-item">*/}
+            {/*<div className="item-wrap">*/}
+              {/*<a href="#modal-07" title="">*/}
+                {/*<img alt="" src={Origami} />*/}
+                {/*<div className="overlay">*/}
+                  {/*<div className="portfolio-item-meta">*/}
+                    {/*<h5>Origami</h5>*/}
+                    {/*<p>Illustrration</p>*/}
+                  {/*</div>*/}
+                {/*</div>*/}
+                {/*<div className="link-icon">*/}
+                  {/*<FaPlus />*/}
+                {/*</div>*/}
+              {/*</a>*/}
+            {/*</div>*/}
+          {/*</div>*/}
 
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-08" title="">
-                <img alt="" src={Retrocam} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Retrocam</h5>
-                    <p>Web Development</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
+          {/*<div className="columns portfolio-item">*/}
+            {/*<div className="item-wrap">*/}
+              {/*<a href="#modal-08" title="">*/}
+                {/*<img alt="" src={Retrocam} />*/}
+                {/*<div className="overlay">*/}
+                  {/*<div className="portfolio-item-meta">*/}
+                    {/*<h5>Retrocam</h5>*/}
+                    {/*<p>Web Development</p>*/}
+                  {/*</div>*/}
+                {/*</div>*/}
+                {/*<div className="link-icon">*/}
+                  {/*<FaPlus />*/}
+                {/*</div>*/}
+              {/*</a>*/}
+            {/*</div>*/}
+          {/*</div>*/}
         </div>
       </div>
 
