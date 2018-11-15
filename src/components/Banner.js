@@ -9,7 +9,7 @@ const Banner = () => (
                 I'm Philip Bankier
             </h1>
             <h3>
-                Enjoy this nifty site time. Enjoy!
+                Data Engineer | Full-Stack Developer | Hardware Tinkerer | Economics Geek
             </h3>
             <hr />
             <SocialLinks />
