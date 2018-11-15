@@ -9,8 +9,7 @@ const Banner = () => (
                 I'm Philip Bankier
             </h1>
             <h3>
-                My <span>other site</span> is down currently for development,
-                so i made this nifty site for the mean time. Enjoy!
+                Enjoy this nifty site time. Enjoy!
             </h3>
             <hr />
             <SocialLinks />

@@ -24,7 +24,7 @@ const About = () => (
               <span>Philip Bankier</span>
               <br />
               <span>
-                Potomac, MD 20854 <br/>
+                Potomac, MD <br/>
                 United States of America
               </span>
               <br />
@@ -36,7 +36,7 @@ const About = () => (
           <div className="columns download">
             <p>
               <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fresume.creddle.io%2Fresume%2F9i1hnd4rsyq&h=AT1JlLufAGO0VfG_IJSrlt0wsWuDVE2PiNjvcU1Iq7YxNndMQ1BmFiTE_4IFHawBqPUDtQacw3gODva2DeI6Yf_Fwusfhz1Lh9lUGex-a5Xx79x-e2MmK4Cl0fsPfmHLvLoXM8md" className="button">
-                <FaCloudDownload /> Download Resume
+                <FaCloudDownload /> My Resume
               </a>
             </p>
           </div>

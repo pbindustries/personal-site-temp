@@ -14,7 +14,7 @@ const Portfolio = () => (
   <section id="portfolio">
     <div className="row">
       <div className="twelve columns collapsed">
-        <h1>Check Out Some of My Works.</h1>
+        <h1>Check Out Some of My Projects.</h1>
 
         <div
           id="portfolio-wrapper"
@@ -26,25 +26,8 @@ const Portfolio = () => (
                 <img alt="" src={Coffee} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Coffee</h5>
-                    <p>Illustrration</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-02" title="">
-                <img alt="" src={Console} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Console</h5>
-                    <p>Web Development</p>
+                    <h5>US Drone Strike Analytics</h5>
+                    <p>US Drone Strike Transparency Application</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -60,8 +43,8 @@ const Portfolio = () => (
                 <img alt="" src={Judah} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Judah</h5>
-                    <p>Webdesign</p>
+                    <h5>Costa Rican Villa</h5>
+                    <p>Get away to paradise!</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -73,12 +56,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="#modal-04" title="">
-                <img alt="" src={IntoTheLight} />
+              <a href="http://leakedanalytics.com/" title="">
+                <img alt="" src={Console} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Into The Light</h5>
-                    <p>Photography</p>
+                    <h5>Wikileaks Data Analytics</h5>
+                    <p>Mining and Analyzing Wikileaks </p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -87,6 +70,23 @@ const Portfolio = () => (
               </a>
             </div>
           </div>
+
+          {/*<div className="columns portfolio-item">*/}
+            {/*<div className="item-wrap">*/}
+              {/*<a href="#modal-04" title="">*/}
+                {/*<img alt="" src={IntoTheLight} />*/}
+                {/*<div className="overlay">*/}
+                  {/*<div className="portfolio-item-meta">*/}
+                    {/*<h5>Into The Light</h5>*/}
+                    {/*<p>Photography</p>*/}
+                  {/*</div>*/}
+                {/*</div>*/}
+                {/*<div className="link-icon">*/}
+                  {/*<FaPlus />*/}
+                {/*</div>*/}
+              {/*</a>*/}
+            {/*</div>*/}
+          {/*</div>*/}
 
           {/*<div className="columns portfolio-item">*/}
             {/*<div className="item-wrap">*/}
