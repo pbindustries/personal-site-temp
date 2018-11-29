@@ -12,10 +12,11 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-            Motivated Software Engineer with solid technical skills enabling me to contribute to your organization's projects by solving its challenges. By developing according to best practices I ensure maximum reliability, reusability and overall code integrity. Recently I've been specializing in Elastic Stack development and intend to be certified in Elasticsearch by November 2018.
-            Checkout my Projects at:
+          Motivated Software Engineer with solid technical skills enabling me to contribute to your organization's projects by solving its challenges. By developing according to best practices I ensure maximum reliability, reusability and overall code integrity. Recently I've been specializing in Elastic Stack development and intend to be certified in Elasticsearch by November 2018.
+          <br/>
+          Checkout my Projects at:
+          <br/>
             - https://github.com/pbindustries
-            - https://github.com/philipbankier
         </p>
         <div className="row">
           <div className="columns contact-details">
@@ -35,7 +36,7 @@ const About = () => (
           </div>
           <div className="columns download">
             <p>
-              <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fresume.creddle.io%2Fresume%2F9i1hnd4rsyq&h=AT1JlLufAGO0VfG_IJSrlt0wsWuDVE2PiNjvcU1Iq7YxNndMQ1BmFiTE_4IFHawBqPUDtQacw3gODva2DeI6Yf_Fwusfhz1Lh9lUGex-a5Xx79x-e2MmK4Cl0fsPfmHLvLoXM8md" className="button">
+              <a href="https://resume.creddle.io/resume/9i1hnd4rsyq" className="button">
                 <FaCloudDownload /> My Resume
               </a>
             </p>

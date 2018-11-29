@@ -6,6 +6,7 @@ module.exports = {
   },
   pathPrefix: "/",
   plugins: [
+    // `gatsby-plugin-favicon`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {
@@ -45,3 +46,4 @@ module.exports = {
     `gatsby-plugin-sass`
   ]
 };
+
